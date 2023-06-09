@@ -3,7 +3,6 @@ package com.jopezin.course.config;
 import com.jopezin.course.entities.*;
 import com.jopezin.course.entities.enums.OrderStatus;
 import com.jopezin.course.repositories.*;
-import org.aspectj.weaver.ast.Or;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
